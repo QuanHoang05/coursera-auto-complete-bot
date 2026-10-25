@@ -79,12 +79,23 @@ const CONFIG = {
 
 ```text
 ├── assets/
+│   ├── donate-qr.png            # VietQR payment code for donations
 │   └── preview.png              # UI screenshot of HUD running on Coursera
 ├── coursera-autopilot.user.js   # Main userscript (Tampermonkey 1-click install)
 ├── CourseraAutoPilot.js         # Source script
 ├── LICENSE                      # MIT License
 └── README.md                    # Project documentation
 ```
+
+---
+
+## ☕ Donate / Support
+
+If this project helped your studies and saved you time, consider buying me a coffee! Every contribution helps maintain the script, adapt to Coursera platform changes, and develop new features.
+
+| Bank Transfer (MB Bank) | Scan QR Code (VietQR) |
+| :--- | :---: |
+| 🏦 **Bank**: MB Bank (Military Commercial Joint Stock Bank)<br><br>👤 **Account Name**: `HOANG HO DINH QUAN`<br><br>💳 **Account Number**: `0383317427` | <img src="assets/donate-qr.png" width="220" alt="VietQR MB Bank Donation"> |
 
 ---
 
